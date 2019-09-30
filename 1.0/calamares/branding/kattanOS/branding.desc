@@ -1,0 +1,27 @@
+---
+componentName:   kattanOS
+welcomeStyleCalamares: true
+
+strings:
+    productName:         kattanOS GNU/Linux
+    shortProductName:    kattanOS
+    version:             1.0
+    shortVersion:        1.0
+    versionedName:       kattanOS GNU/LINUX 1.0
+    shortVersionedName:  kattanOS 1.0
+    bootloaderEntryName: Debian
+    productUrl:          https://ralphkattan.ch
+    supportUrl:          https://ralphkattan.ch/support
+    releaseNotesUrl:     https://ralphkattan.ch/releases/1.0/releasenotes
+
+images:
+    productLogo:         "kattanOS-logo.png"
+    productIcon:         "kattanOS-logo.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#2c3133"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#4d7079"
