@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install Debian
+GenericName=Calamares Installer
+Exec=install-kattanOS
+Comment=Calamares — Installer for kattanOS Live
+Keywords=calamares;system;install;debian;installer
+Icon=install-kattanOS
+Terminal=false
+Categories=Qt;System;
+StartupWMClass=calamares
+StartupNotify=True
