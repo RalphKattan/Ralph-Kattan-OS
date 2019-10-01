@@ -67,7 +67,6 @@ dmsetup
 dosfstools
 dpkg
 e2fsprogs
-eddie-ui
 eject
 emacsen-common
 exfat-utils
@@ -82,7 +81,6 @@ fontconfig-config
 fonts-dejavu-core
 fonts-mathjax
 fonts-opensymbol
-#fuse
 gcc-8
 gcc-8-base:amd64
 gcr
