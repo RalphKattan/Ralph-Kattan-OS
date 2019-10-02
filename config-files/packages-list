@@ -1047,6 +1047,7 @@ policykit-1-gnome
 poppler-data
 postfix
 procps
+psmisc
 pulseaudio
 pulseaudio-utils
 python
@@ -1089,6 +1090,7 @@ tasksel
 tasksel-data
 thunar
 thunar-data
+thunderbird
 tor
 torsocks
 transmission
