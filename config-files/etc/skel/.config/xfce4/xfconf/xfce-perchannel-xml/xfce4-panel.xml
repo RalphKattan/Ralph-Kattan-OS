@@ -17,6 +17,7 @@
         <value type="int" value="16"/>
         <value type="int" value="17"/>
         <value type="int" value="20"/>
+        <value type="int" value="8"/>
         <value type="int" value="19"/>
         <value type="int" value="3"/>
         <value type="int" value="15"/>
@@ -42,6 +43,7 @@
     <property name="plugin-5" type="string" value="clock"/>
     <property name="plugin-6" type="string" value="systray">
       <property name="names-visible" type="array">
+        <value type="string" value="veracrypt"/>
         <value type="string" value="networkmanager applet"/>
       </property>
     </property>
@@ -87,6 +89,11 @@
     <property name="plugin-20" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="157000548313.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-8" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="15700915021.desktop"/>
       </property>
     </property>
   </property>
