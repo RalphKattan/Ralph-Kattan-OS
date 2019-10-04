@@ -156,7 +156,6 @@ init
 init-system-helpers
 initramfs-tools
 initramfs-tools-core
-intel-microcode
 iproute2
 iptables
 iptables-persistent
@@ -164,7 +163,6 @@ iputils-ping
 isc-dhcp-client
 isc-dhcp-common
 iso-codes
-iucode-tool
 kbd
 keyboard-configuration
 keyutils
