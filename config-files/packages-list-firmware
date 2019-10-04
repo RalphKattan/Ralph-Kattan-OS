@@ -16,3 +16,5 @@ firmware-misc-nonfree
 firmware-realtek
 firmware-ti-connectivity
 firmware-zd1211
+intel-microcode
+iucode-tool
