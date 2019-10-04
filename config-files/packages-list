@@ -2,7 +2,6 @@ acpi-support-base
 acpid
 adduser
 adwaita-icon-theme
-amd64-microcode
 apparmor
 apt
 apt-utils
@@ -13,7 +12,6 @@ at-spi2-core
 atril
 atril-common
 avahi-daemon
-b43-fwcutter
 base-files
 base-passwd
 bash
